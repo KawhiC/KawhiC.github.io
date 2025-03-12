@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+## 👋Hi, I'm **KawhiC**
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently a junior student at the **Department of Computer Science and Technology, Shandong University (SDU), Qingdao**. I am passionate about exploring new technologies and leveraging them to solve real-world problems—or sometimes just for fun!
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+### 🔬 **Research Interests**
+🤖 **Artificial Intelligence** – Machine learning, deep learning, and neural networks  
+📊 **Data Science** – Data analysis, predictive modeling, and big data   
+🌐 **Web & Software Development** – Full-stack development, cloud computing  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+### 💡 **Skills & Interests**
+💻 **Programming**: [Languages like Python, Java, C++]  
+🚀 **Technologies**: [Relevant tools, frameworks, AI/ML, Web Dev, etc.]  
+💬 **Social**: Love meeting new people and exchanging ideas!  
+🏋️ **Fitness**: Regular gym-goer, believe in a healthy body and mind
