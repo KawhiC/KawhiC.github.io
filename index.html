@@ -77,6 +77,60 @@
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
 
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: #f4f4f4;
+            margin: 0;
+        }
+
+        .button-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 50px; /* 按钮间距 */
+            max-width: 1500px;
+        }
+
+        .btn {
+            width: 400px;
+            height: 400px;
+            background: #0078D4;
+            color: white;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 120px;
+            text-decoration: none;
+            border-radius: 10px;
+            transition: transform 0.3s ease, background 0.3s ease;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .btn:hover {
+            transform: scale(1.1);
+            background: #005a9e;
+        }
+
+        /* 响应式布局：小屏幕一行 2 个 */
+        @media (max-width: 600px) {
+            .button-container {
+                gap: 15px;
+            }
+            .btn {
+                width: 100px;
+                height: 100px;
+                line-height: 100px;
+                font-size: 14px;
+            }
+        }
+    </style>
 </head>
 
 <body id="page-top">
@@ -95,10 +149,10 @@
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#home">HOME</a>
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
-                    </li>
                     <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#contnets">contnets</a>
+                    </li>
+                    <!-- <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#experience">EXPERIENCE</a>
                     </li>
                     <li class="nav-item">
@@ -138,7 +192,15 @@
         </div>
     </section>
 
-    <iframe src="https://username.github.io/docs/document.pdf" width="100%" height="600px"></iframe>
+    
+
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="contents">
+        <div class="button-container">
+            <a href="https://KawhiC.github.io/docs/document.pdf" class="btn">创建个人网站报告</a>
+            <a href="https://blog.csdn.net/wenhao_ir/article/details/131253801" class="btn">参考博客</a>
+            <a href="https://blog.csdn.net/m0_74905007/article/details/144991121" class="btn">我的博客</a>
+        </div>
+    </section>
 
 
     
